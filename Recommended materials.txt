@@ -1,0 +1,14 @@
+
+1. 푸리에 변환(Fourier Transform)의 이해와 활용
+-- https://darkpgmr.tistory.com/171
+-- 주파수 영역 신호분석의 가장 대표적인 기법인 FFT의 개념/수식적 이해와 활용 분야에 대해 이해할 수 있는 포스팅 (참고로 해당 블로그 '다크 프로그래머'의 기계학습이나 수학 관련 글들도 좋은 내용들이 많음)
+
+2. 추천 블로그 : 공돌이의 수학정리노트 (https://angeloyeo.github.io/)
+-- 푸리에 변환 포함 다양한 수학적 개념에 대하여 자세하고 명료하게 설명해놓은 글들이 많음
+
+3. Harmonic 주파수(고조파)가 생기는 이유
+-- http://www.rfdh.com/bas_rf/begin/harmonic.htm
+
+4. Wavelet Transform에 대한 개념과 신호처리/머신러닝 분야에서의 활용 설명
+-- http://ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/
+-- 영어로 되어있지만 가급적 수학을 배제하며 상당히 명료하고 깊게 설명했음. 해당 글 외에도 좋은 글들이 많이 블로그
