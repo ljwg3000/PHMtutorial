@@ -12,3 +12,13 @@
 4. Wavelet Transform에 대한 개념과 신호처리/머신러닝 분야에서의 활용 설명
 -- http://ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/
 -- 영어로 되어있지만 가급적 수학을 배제하며 상당히 명료하고 깊게 설명했음. 해당 글 외에도 좋은 글들이 많이 블로그
+
+5. Fourier Transform(푸리에 변환)에 대한 시각화 영상
+-- https://youtu.be/spUNpyF58BY
+-- 해당 유튜브 채널(3Blue1Brown) 강력히 추천!
+-- 푸리에 변환 뿐만 아니라 미적분, 인공신경망 등 가장 뛰어난 시각화 자료 제공
+
+6. Support Vector Machine(SVM) 설명 영상
+-- https://www.youtube.com/watch?v=efR1C6CvhmE
+-- 서포트 벡터 머신 작동 원리에 대해 시각정보와 함께 명료하게 설명
+
